@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-grid",
+  "version": "0.1.0",
+  "description": "grid component for blank-css",
+  "main": "grid.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-layout-grid",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-sizes": "~0.1.0",
+    "blank-css-unit": "~0.1.0"
+  }
+}
