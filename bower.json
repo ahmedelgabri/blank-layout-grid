@@ -27,6 +27,6 @@
   ],
   "dependencies": {
     "blank-css-sizes": "~0.1.0",
-    "blank-css-unit": "~0.1.0"
+    "blank-css-unit": "~0.1.1"
   }
 }
